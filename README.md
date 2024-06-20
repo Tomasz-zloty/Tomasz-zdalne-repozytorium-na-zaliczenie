@@ -1,6 +1,6 @@
-Repozytorium zawiera 2 kody aplikacji w języku C++.
-Pierwsza aplikacja to gra w zgadywanie liczb. Polega na odgadnięciu losowo wybranej liczby przez komputer w zakresie od 1 do 100. Przy każdej próbie podpowiada czy nasza liczba jest za duża czy za mała. 
-Druga aplikacja to logowanie do systemu. Po wybraniu rejestracji i poprawnym wykonaniu wszystkich kroków, możemy zalogować się na konto i nim zarządzać.
+Repozytorium zawiera 2 kody aplikacji w języku C++ oraz C.
+Pierwsza aplikacja to gra w zgadywanie liczb (C). Polega na odgadnięciu losowo wybranej liczby przez komputer w zakresie od 1 do 100. Przy każdej próbie podpowiada czy nasza liczba jest za duża czy za mała. 
+Druga aplikacja (C++) to logowanie do systemu. Po wybraniu rejestracji i poprawnym wykonaniu wszystkich kroków, możemy zalogować się na konto i nim zarządzać.
 
 Instrukcja uruchomienia aplikacji np. Code Blocks:
 
@@ -24,7 +24,7 @@ Utworzenie nowego projektu w Code::Blocks
 Uruchom Code::Blocks.
 Wybierz Create a new project z ekranu startowego lub przejdź do File > New > Project....
 Wybierz Console Application i kliknij Go.
-Wybierz język programowania C++ i kliknij Next.
+Wybierz język programowania C++ lub C (zależnie, którą aplikację chcemy uruchomić) i kliknij Next.
 Podaj nazwę projektu i wybierz katalog, w którym projekt ma zostać zapisany, a następnie kliknij Next.
 Wybierz domyślny kompilator (najczęściej będzie to GNU GCC Compiler) i kliknij Finish.
 
