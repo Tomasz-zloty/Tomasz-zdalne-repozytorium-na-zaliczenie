@@ -45,3 +45,5 @@ Uruchom aplikację:
 Kliknij Run na pasku narzędzi lub wybierz Build > Run (lub Ctrl+F10).
 
 To wszystko! Mam nadzieję, że teraz wiesz, jak uruchomić i korzystać z aplikacji w Code::Blocks.
+
+                                                                                 Opracował T.Z. NR:13015
